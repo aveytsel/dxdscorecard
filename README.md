@@ -1,5 +1,8 @@
 # dxdscorecard
 Scorecard project for DEVxDAO
+
+For a video overview see: https://www.loom.com/share/5e494e656c47422c931d4307f37dfbd1
+
 SCORECARD INSTRUCTIONS
 Note: this tool is intended to be a prototype rather than a live tool, so there are some areas where the flexibility does not reach production standards - for example, grant applications can only have up to 4 milestones and organizations 4 individuals profiled. That said, it is intended to be functional.
 
